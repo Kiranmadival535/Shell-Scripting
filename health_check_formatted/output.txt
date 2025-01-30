@@ -1,0 +1,9 @@
+CPU Usage:
+9.1%
+Memory Usage:
+722Mi/957Mi (75.4441%)
+Disk Usage:
+/dev/root       6.8G  4.3G  2.5G  64% /
+/dev/xvda16     881M   76M  744M  10% /boot
+/dev/xvda15     105M  6.1M   99M   6% /boot/efi
+
